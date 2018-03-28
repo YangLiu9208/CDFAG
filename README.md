@@ -8,11 +8,11 @@ Recently, infrared human action recognition has attracted increasing attention f
 
 ## Model
 
-![fig](J:\Github repository\CDFAG\Fig1.jpg)Figure 1: Illustration of aligned-to-generalized encoders generalizing aligned features across visible light and infrared action datasets.
+![fig](Fig1.jpg)Figure 1: Illustration of aligned-to-generalized encoders generalizing aligned features across visible light and infrared action datasets.
 
 ## Experimental results
 
-![Fig2](J:\Github repository\CDFAG\Fig2.png)
+![Fig2](Fig2.png)
 
 More experimental results and discussions can be found in paper.
 
