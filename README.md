@@ -14,7 +14,7 @@ Recently, infrared human action recognition has attracted increasing attention f
 
 ![Fig2](Fig2.png)
 
-### References
+####References
 
 [15]  D. Tuia and G. Camps-Valls, “Kernel manifold alignment for domain adaptation,” PLoS ONE,vol.11,no.2, ArticleID e0148655, 2016.
 
@@ -32,7 +32,7 @@ More experimental results and discussions can be found in [paper](https://www.hi
 
 ## Dataset
 
-We build a new visible light human action recognition dataset XD14. It can be downloaded [here](https://sites.google.com/site/yangliuxdu/home).
+We build a new visible light human action recognition dataset XD145. It can be downloaded [here](https://sites.google.com/site/yangliuxdu/home).
 
 ![ig](Fig4.png)
 
