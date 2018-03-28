@@ -14,13 +14,35 @@ Recently, infrared human action recognition has attracted increasing attention f
 
 ![Fig2](Fig2.png)
 
-More experimental results and discussions can be found in paper.
+### References
+
+[15]  D. Tuia and G. Camps-Valls, “Kernel manifold alignment for domain adaptation,” PLoS ONE,vol.11,no.2, ArticleID e0148655, 2016.
+
+[16]  C. Wang and S. Mahadevan, “Heterogeneous domain adaptation using manifold alignment,” in Proceedings of the 22nd International Joint Conference on Artificial Intelligence,pp. 1541– 1546, July 2011.
+
+[17]  B.Fernando, A.Habrard, M.Sebban, and T.Tuytelaars, “Unsupervised visual domain adaptation using subspace alignment,” in Proceedings of the 2013 14th IEEE International Conference on Computer Vision, ICCV 2013, pp. 2960–2967, Australia, December 2013.
+
+[18]  F. Zhu and L. Shao, “Weakly-supervised cross-domain dictionary learning for visual recognition,” International Journal of Computer Vision,vol.109,no. 1-2,pp.42–59,2014.
+
+[19]  T.Xu, F.Zhu, E.K.Wong, and Y.Fang, “Dual many-to-one encoder-based transfer learning for cross-dataset human action recognition,” Image and Vision Computing,vol.55, pp.127–137, 2016.
+
+
+
+More experimental results and discussions can be found in [paper](https://www.hindawi.com/journals/complexity/2018/5345241/).
 
 ## Dataset
 
+We build a new visible light human action recognition dataset XD14. It can be downloaded [here](https://sites.google.com/site/yangliuxdu/home).
+
+![ig](Fig4.png)
+
+​                           Figure 2: 12 actions of the newly constructed visible light action dataset XD145.
+
 InfAR dataset can be downloaded [here](https://sites.google.com/site/gaochenqiang/publication/infrared-action-dataset).
 
-XD145 dataset can be downloaded [here](https://sites.google.com/site/yangliuxdu/home).
+![ig](Fig3.png)
+
+​                               Figure 3: Example images from video sequences on the InfAR dataset.
 
 ## Codes
 
@@ -28,11 +50,9 @@ CDFAG demo codes can be downloaded here.
 
 Just run "CDFAG_demo.m".
 
-Any problems can be contacted with aryanr@163.com.
 
 
-
-If you use our codes or dataset and find our work useful, please kindly consider to cite our paper by:
+If you use our codes or XD145 dataset and find our work useful, please kindly consider to cite our paper by:
 
 ```
 @article{CDFAG,
