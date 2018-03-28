@@ -56,7 +56,7 @@ If you use our codes or XD145 dataset and find our work useful, please kindly co
 
 ```
 @article{CDFAG,
-  title={Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action  Recognition},
+  title={Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition},
   author={Yang Liu and Zhaoyang Lu and Jing Li and Chao Yao and Yanzi Deng},
   journal={Complexity},
   volume={2018},
