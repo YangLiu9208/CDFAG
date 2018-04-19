@@ -75,7 +75,3 @@ If you use our codes or XD145 dataset and find our work useful, please kindly co
 Yang Liu, Zhaoyang Lu, Jing Li, Chao Yao, and Yanzi Deng, “Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition,” *Complexity*, vol. 2018, Article ID 5345241, 20 pages, 2018. doi:10.1155/2018/5345241
 
 <a href='https://clustrmaps.com/site/1a4al'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=m&d=HAWHLJd2248UIgdG_675UoqAfzqgSUf6TUQdpSK0VPM'/></a>
-
-This page has been visited for 
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3221711&c=9665446" alt="AmazingCounters.com"></a></div>
-times.
