@@ -50,11 +50,11 @@ InfAR dataset can be downloaded [here](https://sites.google.com/site/gaochenqian
 
 ## Codes
 
-iDTs feature extraction codes ("DenseTrackStab_idt.rar") can be downloaded here.
+(1) iDTs feature extraction codes ("DenseTrackStab_idt.rar") can be downloaded here.
 
-CDFAG demo codes can be downloaded here.
+(2) After iDTs feature extraction, you need to run "import_idt.m" to load the binary iDTs files in Matlab. 
 
-Just run "CDFAG_demo.m".
+(3) Run "CDFAG_demo.m".
 
 
 
