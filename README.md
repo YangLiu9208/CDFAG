@@ -50,6 +50,8 @@ InfAR dataset can be downloaded [here](https://sites.google.com/site/gaochenqian
 
 ## Codes
 
+iDTs feature extraction codes ("DenseTrackStab_idt.rar") can be downloaded here.
+
 CDFAG demo codes can be downloaded here.
 
 Just run "CDFAG_demo.m".
