@@ -42,7 +42,18 @@ We build a new visible light human action recognition dataset XD145. It can be d
 
 ​                           Figure 2: 12 actions of the newly constructed visible light action dataset XD145.
 
-InfAR dataset can be downloaded [here](https://sites.google.com/site/gaochenqiang/publication/infrared-action-dataset).
+InfAR dataset can be downloaded after you have finished following steps.  
+      Download instructions:  
+      To apply for the dataset, please follow the steps below:  
+      1. Download and print the document [Agreement](https://drive.google.com/file/d/1vholonZcYntZ2yR3xnvyocfrhl4g-LcT/view?usp=sharing) for using XD145 dataset.   
+      2. Sign the agreement.   
+      3. Send the agreement to aryanr@163.com.   
+      4. Check your email to find a login account and a password of our website after one day, if your application has been approved.   
+      5. Download the XD145 dataset from our website with the authorized account within 48 hours. 
+      
+Copyright Note and Contacts:    
+     The dataset is released for research and educational purposes. We hold no liability for any undesirable consequences of using the dataset. All rights of the XD145 dataset are reserved.    
+      Any person or organization is not permitted to distribute, publish, copy, or disseminate this dataset.    
 
 ![ig](Fig3.png)
 
