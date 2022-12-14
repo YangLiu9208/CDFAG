@@ -36,7 +36,7 @@ More experimental results and discussions can be found in [paper](https://www.hi
 
 ## Dataset
 
-We build a new visible light human action recognition dataset XD145. It can be downloaded [here](https://sites.google.com/site/yangliuxdu/home).
+We build a new visible light human action recognition dataset XD145. It can be downloaded [here](https://drive.google.com/drive/folders/0B1qfLiy9hTl6NUlHNFo1eFhzekU?resourcekey=0-NYGlSf0RU22IV2fS0lAh4Q&usp=share_link).
 
 ![ig](Fig4.png)
 
